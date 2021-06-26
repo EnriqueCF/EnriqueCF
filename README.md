@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EnriqueCF
 - 👀 I’m interested in backend projects.
 - 🌱 I’m currently learning Java, Spring, Docker, Kubernetes, AWS.
-- 📫 How to reach me, e-mail: enrique.casas.fdez@gmail.com
+- 📫 How to reach me, send me e-mail to: enrique.casas.fdez@gmail.com
 
 <!---
 EnriqueCF/EnriqueCF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
